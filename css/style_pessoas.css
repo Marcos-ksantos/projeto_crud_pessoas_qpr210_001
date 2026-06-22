@@ -46,3 +46,7 @@ button{
     min-height: 450px;
     background-color: rgb(207, 188, 163);
 }
+
+p{
+    color: brown;
+}
